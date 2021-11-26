@@ -1,8 +1,27 @@
 ## Welcome to GitHub Pages
+Aptitudes y habilidades
 
-You can use the [editor on GitHub](https://github.com/DavTestFireReact/DavTestFireReact.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+PROGRAMACIÓN WEB Y DE ESCRITORIO
+ 
+·	HTML5
+·	BOOTSTRAP
+·	JAVASCRIPT
+·	CSS
+·	JQUERY
+·	PHP
+·	Lenguaje C# (POO)
+·	Git (Básico)
+ 
+BASES DE DATOS
+MYSQL
+SQL SERVER
+INGLÉS
+ 
+·	Hablado: Básico
+·	Escrito: Básico
+·	Lectura: Intermedio
+·	Escuchado: Intermedio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
