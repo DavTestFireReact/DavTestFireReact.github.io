@@ -1,56 +1,50 @@
-## Currículum Vitae
-Aptitudes y habilidades
+# Angel David Arellano Avila 25 años
+## Objetivo
+Mejorar y adquirir habilidades y conocimientos en Programación y Tecnologías de la Información con el objetivo de aportar valor en el lugar donde desempeñe mi profesión consiguiendo logros profesionales y personales.
+## Educación
+**CERTIFICADO - |AGOSTO 2014 – DICIEMBRE 2019| INSTITUTO TECNOLÓGICO DE ACAPULCO**
+·	Área general de estudio: Ingeniería en Sistemas Computacionales.
+·	Especialidad: Sistemas de Información para la Toma de Decisiones.
+·	Trabajo de curso relacionado: Diseño, desarrollo e implementación de una Plataforma de Gestión y Operación para una Notaría. Utilizando el lenguaje de programación C# y MYSQL.
 
-PROGRAMACIÓN WEB Y DE ESCRITORIO
+**CERTIFICADO| AGOSTO 2011 – JULIO 2014 | CENTRO DE ESTUDIOS TECNOLÓGICOS INDUSTRIAL Y DE SERVICIOS N° 116**
+·	Área general de estudio: Bachillerato Tecnológico
+·	Especialidad: Informática
+
+**CERTIFICADO| AGOSTO 2008 - JULIO 2011 | SECUNDARIA TÉCNICA 152 ACAPULCO DIAMANTE**
+·	Área general de estudio: Secundaria
+·	Especialidad: Contabilidad
+
+**CERTIFICADO| AGOSTO 2002 - JULIO 2008 | PRIMARIA EMILIANO ZAPATA**
+
+**CERTIFICADO| OCTUBRE 2018 - OCTUBRE 2020 INGLÉS TOEFL (ITP) | Bécalos English Challenge (Plataforma VOXY)**
+
+
+## Software / Herramientas 
+ ```
+ Web y Escritorio: 
+- HTML5
+- BOOTSTRAP
+- JAVASCRIPT
+- CSS
+- JQUERY
+- PHP
+- Lenguaje C# (POO)
+- Git
  
-·	HTML5
-·	BOOTSTRAP
-·	JAVASCRIPT
-·	CSS
-·	JQUERY
-·	PHP
-·	Lenguaje C# (POO)
-·	Git (Básico)
- 
-BASES DE DATOS
-MYSQL
-SQL SERVER
-INGLÉS
- 
-·	Hablado: Básico
-·	Escrito: Básico
-·	Lectura: Intermedio
-·	Escuchado: Intermedio
+Base de datos: 
+- MYSQL
+- SQL SERVER
+``` 
 
 
-### Markdown
+## Trabajos anteriores
+**SSAE (SOLUCIONES DE SOFTWARE APLICADO A EMPRESAS) | 02 DE FEBRERO DE 2021 – 02 DE SEPTIEMBRE DE 2021**
+-	Atención a   clientes desde la adquisición de nuevos proyectos web, mantenimiento y desarrollo de los mismos con el uso de software propio de la empresa.
+-	Implementación de un Sistema WEB que permite capturar, almacenar y modificar la información de los clientes de la empresa SSAE (Soluciones de Software Aplicado a Empresas), además de la generación de archivos digitales, como reportes, órdenes y recibos de pago. Con el uso de PHP, MYSQL, HTML5, JAVASCRIPT, JQUERY, CSS Y BOOTSTRAP.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**COMUNICACIONES A&B - DURANTE 1 AÑO**
+-	Diseño y desarrollo de una plataforma de gestión y operación para una notaría. Con el uso del lenguaje de programación C# y el Sistema gestor de base de datos MySql, como proyecto de Residencias Profesionales.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavTestFireReact/DavTestFireReact.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**SHARP**
+-	Instalación y configuración de impresoras y multifuncionales en oficinas de gobierno.
