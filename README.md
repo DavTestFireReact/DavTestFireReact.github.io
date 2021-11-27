@@ -1,4 +1,4 @@
-# Currículum Vitae
+## Curriculum Vitae
 
 ## Angel David Arellano Avila 
 Edad: 25 años
