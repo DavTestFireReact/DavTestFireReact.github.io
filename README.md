@@ -4,7 +4,7 @@ Mejorar y adquirir habilidades y conocimientos en Programación y Tecnologías d
 ## Educación
 **CERTIFICADO - |AGOSTO 2014 – DICIEMBRE 2019| INSTITUTO TECNOLÓGICO DE ACAPULCO**
 ·	Área general de estudio: Ingeniería en Sistemas Computacionales.
-·	Especialidad: Sistemas de Información para la Toma de Decisiones.
+·	- Especialidad: Sistemas de Información para la Toma de Decisiones.
 ·	Trabajo de curso relacionado: Diseño, desarrollo e implementación de una Plataforma de Gestión y Operación para una Notaría. Utilizando el lenguaje de programación C# y MYSQL.
 
 **CERTIFICADO| AGOSTO 2011 – JULIO 2014 | CENTRO DE ESTUDIOS TECNOLÓGICOS INDUSTRIAL Y DE SERVICIOS N° 116**
