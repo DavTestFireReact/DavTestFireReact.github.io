@@ -15,6 +15,10 @@ Mejorar y adquirir habilidades y conocimientos en Programación y Tecnologías d
 ·	Área general de estudio: Secundaria
 ·	Especialidad: Contabilidad.
 
+**CERTIFICADO | AGOSTO 2002 - JULIO 2008 | PRIMARIA EMILIANO ZAPATA**
+
+**CERTIFICADO | OCTUBRE 2018 - OCTUBRE 2020 INGLÉS TOEFL (ITP) | Bécalos English Challenge (Plataforma VOXY)**
+
 ## Software / Herramientas 
  ```
  Web y Escritorio: 
