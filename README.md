@@ -2,23 +2,22 @@
 ## Objetivo
 Mejorar y adquirir habilidades y conocimientos en Programación y Tecnologías de la Información con el objetivo de aportar valor en el lugar donde desempeñe mi profesión consiguiendo logros profesionales y personales.
 ## Educación
-**CERTIFICADO - |AGOSTO 2014 – DICIEMBRE 2019| INSTITUTO TECNOLÓGICO DE ACAPULCO**
+**CERTIFICADO | AGOSTO 2014 – DICIEMBRE 2019 | INSTITUTO TECNOLÓGICO DE ACAPULCO**
 ·	Área general de estudio: Ingeniería en Sistemas Computacionales.
 ·	- Especialidad: Sistemas de Información para la Toma de Decisiones.
 ·	Trabajo de curso relacionado: Diseño, desarrollo e implementación de una Plataforma de Gestión y Operación para una Notaría. Utilizando el lenguaje de programación C# y MYSQL.
 
-**CERTIFICADO| AGOSTO 2011 – JULIO 2014 | CENTRO DE ESTUDIOS TECNOLÓGICOS INDUSTRIAL Y DE SERVICIOS N° 116**
+**CERTIFICADO | AGOSTO 2011 – JULIO 2014 | CENTRO DE ESTUDIOS TECNOLÓGICOS INDUSTRIAL Y DE SERVICIOS N° 116**
 ·	Área general de estudio: Bachillerato Tecnológico
-·	Especialidad: Informática
+·	Especialidad: Informática.
 
-**CERTIFICADO| AGOSTO 2008 - JULIO 2011 | SECUNDARIA TÉCNICA 152 ACAPULCO DIAMANTE**
+**CERTIFICADO | AGOSTO 2008 - JULIO 2011 | SECUNDARIA TÉCNICA 152 ACAPULCO DIAMANTE**
 ·	Área general de estudio: Secundaria
-·	Especialidad: Contabilidad
+·	Especialidad: Contabilidad.
 
-**CERTIFICADO| AGOSTO 2002 - JULIO 2008 | PRIMARIA EMILIANO ZAPATA**
+**CERTIFICADO | AGOSTO 2002 - JULIO 2008 | PRIMARIA EMILIANO ZAPATA**
 
-**CERTIFICADO| OCTUBRE 2018 - OCTUBRE 2020 INGLÉS TOEFL (ITP) | Bécalos English Challenge (Plataforma VOXY)**
-
+**CERTIFICADO | OCTUBRE 2018 - OCTUBRE 2020 INGLÉS TOEFL (ITP) | Bécalos English Challenge (Plataforma VOXY)**
 
 ## Software / Herramientas 
  ```
