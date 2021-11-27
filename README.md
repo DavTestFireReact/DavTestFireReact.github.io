@@ -1,4 +1,3 @@
-# Angel David Arellano Avila 25 años
 ## Objetivo
 Mejorar y adquirir habilidades y conocimientos en Programación y Tecnologías de la Información con el objetivo de aportar valor en el lugar donde desempeñe mi profesión consiguiendo logros profesionales y personales.
 ## Educación
@@ -16,8 +15,10 @@ Mejorar y adquirir habilidades y conocimientos en Programación y Tecnologías d
 ·	Especialidad: Contabilidad.
 
 **CERTIFICADO | AGOSTO 2002 - JULIO 2008 | PRIMARIA EMILIANO ZAPATA**
+.
 
 **CERTIFICADO | OCTUBRE 2018 - OCTUBRE 2020 INGLÉS TOEFL (ITP) | Bécalos English Challenge (Plataforma VOXY)**
+.
 
 ## Software / Herramientas 
  ```
