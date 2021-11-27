@@ -1,5 +1,11 @@
+# Currículum Vitae
+
+## Angel David Arellano Avila 
+- Edad: 25 años
+
 ## Objetivo
 Mejorar y adquirir habilidades y conocimientos en Programación y Tecnologías de la Información con el objetivo de aportar valor en el lugar donde desempeñe mi profesión consiguiendo logros profesionales y personales.
+
 ## Educación
 **CERTIFICADO | AGOSTO 2014 – DICIEMBRE 2019 | INSTITUTO TECNOLÓGICO DE ACAPULCO**
 ·	Área general de estudio: Ingeniería en Sistemas Computacionales.
