@@ -1,7 +1,7 @@
 # Currículum Vitae
 
 ## Angel David Arellano Avila 
-- Edad: 25 años
+Edad: 25 años
 
 ## Objetivo
 Mejorar y adquirir habilidades y conocimientos en Programación y Tecnologías de la Información con el objetivo de aportar valor en el lugar donde desempeñe mi profesión consiguiendo logros profesionales y personales.
